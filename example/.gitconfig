@@ -1,0 +1,3 @@
+[merge "binary-merge"]
+	name = Create base, ours, theirs file for conflict
+	driver = ../target/release/binary-conflict %O %A %B %P

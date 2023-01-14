@@ -1,0 +1,3 @@
+[attr]BINARY diff=binary merge=binary-merge -text
+
+*.png BINARY
